@@ -1,7 +1,8 @@
 const acountId=5679
 let myName="sunny singh"
 var balance="$500"
-console.table([acountId, myName,balance]);
+let state
+console.table([acountId, myName,balance,state]);
 
 
 myName="aditya raj manu"
